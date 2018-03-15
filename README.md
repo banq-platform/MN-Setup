@@ -43,7 +43,7 @@ apt-get install wget -y
 
 wget https://raw.githubusercontent.com/banq-platform/MN-Setup/master/install-ubuntu-16-04.sh
 
-chmod 740 install.sh
+chmod 740 install-ubuntu-16-04.sh
 
 ./install-ubuntu-16-04.sh
 
