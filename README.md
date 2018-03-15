@@ -69,4 +69,4 @@ Save and close the config file. Restart the wallet.
 Go to «Masternodes» tab. You should see your configured masternode as missing. Click on «Start All». Now you should see your masternode as «Pre_Enabled» or «Enabled»
 If so, you are all set. It will start getting rewards in around 24 hours.
 											 						
-You are all set, GOOD LUCK.
+You are all set, WELCOME TO BANQ.
