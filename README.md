@@ -38,7 +38,7 @@ chmod 740 install.sh
 ./install.sh
 
 						
-Now it will take some time. Wait until : «GOOD LUCK». It will also print masternode private key as: «Masternode private key:». Save that somewhere, you will use it later.
+Now it will take some time. Wait until : «WELCOME TO THE BANQ». It will also print masternode private key as: «Masternode private key:». Save that somewhere, you will use it later.
 						
 Now come back to your wallet in your PC.
 					
@@ -69,4 +69,4 @@ Save and close the config file. Restart the wallet.
 Go to «Masternodes» tab. You should see your configured masternode as missing. Click on «Start All». Now you should see your masternode as «Pre_Enabled» or «Enabled»
 If so, you are all set. It will start getting rewards in around 24 hours.
 											 						
-You are all set, WELCOME TO BANQ.
+You are all set, WELCOME TO THE BANQ.
