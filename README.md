@@ -37,7 +37,17 @@ chmod 740 install.sh
 
 ./install.sh
 
+(**FOR UBUNTU 16.04**)
 						
+apt-get install wget -y
+
+wget https://raw.githubusercontent.com/banq-platform/MN-Setup/master/install-ubuntu-16-04.sh
+
+chmod 740 install.sh
+
+./install-ubuntu-16-04.sh
+
+
 Now it will take some time. Wait until : «WELCOME TO THE BANQ». It will also print masternode private key as: «Masternode private key:». Save that somewhere, you will use it later.
 						
 Now come back to your wallet in your PC.
