@@ -74,4 +74,4 @@ cd /root/.banqcore
 
 echo "Masternode private key: $masternodekey"
 
-echo "GOOD LUCK"
+echo "WELCOME TO BANQ"
