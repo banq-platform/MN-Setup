@@ -68,7 +68,7 @@ The long string is the transaction id of your payment and the number is transact
 						
 Go to Tools → Masternode configuration file. It will open your masternode config file.
 						
-Take # out and change in accordingly - Label vps_ip:7717 masternode_priv_key trx_id_of_your_payment trx_ID
+Take # out and change in accordingly - Label vps_ip:4568 masternode_priv_key trx_id_of_your_payment trx_ID
 																	 								
 Note that each data is separated by space, so do not introduce any space yourself.
 		
